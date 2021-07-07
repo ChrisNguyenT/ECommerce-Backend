@@ -12,7 +12,7 @@
   This project consists of building a functional back end using starter code. The application uses Express.js, Sequelize, and MySQL database. When the server starts and the Sequelized models are synced to the MySQL database, the user is then able to test all of the API GET, POST, PUT, and DELETE routes in Insomnia Core.
   ## Installation:
   You will need to seed the database by using 'npm run seed'.
-  ![seed](./images/seed.gif)
+  ![seed](./images/seed.gif = 400 x 200)
   
   After that you can start the server by running 'node server'.  
   ## Usage:
